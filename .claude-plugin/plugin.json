@@ -1,0 +1,9 @@
+{
+  "name": "my-simple-claude",
+  "description": "A greeting plugin to learn the basics",
+  "version": "1.0.0",
+  "author": {
+    "name": "woong"
+  },
+  "repository": "https://github.com/hiidy/my-claude"
+}
