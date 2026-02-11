@@ -1,0 +1,36 @@
+{
+  "name": "my-claude",
+  "owner": {
+    "name": "woong",
+    "email": "hiidy115@gmail.com"
+  },
+  "metadata": {
+    "description": "나만의 Claude Code 설정 모음"
+  },
+  "plugins": [
+    {
+      "name": "my-dev-tools",
+      "source": "./",
+      "description": "개인 개발 워크플로우를 위한 agents, skills, hooks, commands 모음",
+      "author": {
+        "name": "Your Name"
+      },
+      "homepage": "https://github.com/hiidy/my-claude",
+      "repository": "https://github.com/hiidy/my-claude",
+      "license": "MIT",
+      "keywords": [
+        "development",
+        "workflow",
+        "automation",
+        "productivity"
+      ],
+      "category": "workflow",
+      "tags": [
+        "agents",
+        "skills",
+        "commands",
+        "hooks"
+      ]
+    }
+  ]
+}
