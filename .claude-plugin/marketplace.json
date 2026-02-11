@@ -9,14 +9,14 @@
   },
   "plugins": [
     {
-      "name": "my-dev-tools",
+      "name": "my-simple-claude",
       "source": "./",
       "description": "개인 개발 워크플로우를 위한 agents, skills, hooks, commands 모음",
       "author": {
         "name": "Your Name"
       },
-      "homepage": "https://github.com/hiidy/my-claude",
-      "repository": "https://github.com/hiidy/my-claude",
+      "homepage": "https://github.com/hiidy/my-simple-claude",
+      "repository": "https://github.com/hiidy/my-simple-claude",
       "license": "MIT",
       "keywords": [
         "development",
